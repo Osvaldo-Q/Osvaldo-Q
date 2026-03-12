@@ -7,7 +7,7 @@
 
 Hello, my name is Osvaldo Quintanal. I am a Computer Science student in FIU who is interested in many programming disciplines, particularly game development, graphics programming, and software engineering.
 
-I am currently leading the "2D Game Development (II)" team in INIT within the FIU chapter as a part of the INIT Build program! My team is developing a roguelike game with a strict deadline of nine week to present to a room with other teams and sponsors at the end of the semester. In addition to INIT Build, I am also working on projects in my free time, such as learning graphics programming through the use of OpenGL and developing a satisfying, immersive flower-farming game.
+I am currently leading the "2D Game Development (II)" team in INIT within the FIU chapter as a part of the INIT Build program! My team is developing a roguelike game with a strict deadline of nine week to present to a room with other teams and sponsors at the end of the semester. In addition to INIT Build, I am also working on projects in my free time, such as learning graphics programming through the use of OpenGL and developing a satisfying, immersive flower-farming game in Unity.
 
 Eventually, I want to go deeper into low-level development regarding graphical systems, develop open-source software aimed to decentralize sound design education to music producers, and share my experience with game development to those that are starting out.
 
